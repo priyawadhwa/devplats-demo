@@ -1,1 +1,2 @@
-# devplats-demo
+# skaffold-gitops
+GitOps with Skaffold
