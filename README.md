@@ -1,2 +1,2 @@
-# skaffold-gitops
-GitOps with Skaffold
+# tekton-gitops
+GitOps with Tekton and Skaffold
